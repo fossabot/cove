@@ -1,4 +1,6 @@
 # Cove - Libraries & CLI's that wrap the go command.
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMediaMath%2Fcove.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMediaMath%2Fcove?ref=badge_shield)
+
 
 This is a small set of wrapper libraries and cli's that wrap around the golang go command.
 
@@ -58,3 +60,7 @@ cvr -o=path/to/some/dir github.com/MediaMath/...
 ```bash
 go install github.com/MediaMath/cove/cvr
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMediaMath%2Fcove.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMediaMath%2Fcove?ref=badge_large)
